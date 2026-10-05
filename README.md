@@ -182,5 +182,10 @@ Feel free to check the [issues page](https://github.com/md-imam75/KrishiMind-Agr
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+
+This project is currently not licensed for reuse, modification,
+or redistribution. All rights reserved by the project authors.
+
+Please do not copy, modify, distribute, or use this project
+without permission.
