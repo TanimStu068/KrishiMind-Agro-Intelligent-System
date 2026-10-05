@@ -1,3 +1,5 @@
+
+
 # 🌱 KrishiMind — Agro-Intelligent System
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
@@ -6,6 +8,46 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
 **KrishiMind** is an AI-powered agricultural intelligence platform designed specifically for Bangladesh. It bridges the gap between grassroots farmers and government agricultural officers by providing real-time crop recommendations, AI disease scanning, market insights, and localized broadcast alerts via an intuitive bilingual (Bangla & English) interface.
+
+---
+
+## 👥 Team & Attribution
+
+**KrishiMind** was developed collaboratively as a team project during our industrial attachment at **EchoLogyx Ltd.**
+
+This repository is a portfolio copy of the original team project, shared here for project showcase purposes.
+
+### Team Members
+
+- **Tanim Mahmud** — [GitHub](https://github.com/TanimStu068)
+- **Md Imam Sabbir** — [GitHub](https://github.com/md-imam75)
+- **Abtahi Mustakim** — [GitHub](https://github.com/Abtahi71)
+- **Robiul Alam**
+- **Abid Hasan Zarif**
+- **Md Mehedi**
+
+
+
+> All team members contributed to the development of KrishiMind. The repository and project should be considered a collaborative team effort, not an individual project.
+
+**Original Team Repository:**  
+[KrishiMind-Agro-Intelligent-System](https://github.com/md-imam75/KrishiMind-Agro-Intelligent-System)
+
+---
+
+## 👨‍💻 My Contribution
+
+As a member of the KrishiMind development team, my contributions included:
+
+- 💡 **Project Ideation:** Proposed the core idea for KrishiMind, which was selected by the company from the ideas presented by the team.
+- 🎨 **Frontend Development:** Contributed to the development and implementation of the frontend interface and user-facing features.
+- 📚 **Frontend & Backend Documentation:** Prepared and organized technical documentation covering both the frontend and backend components of the system.
+- 📝 **Detailed Project Documentation:** Contributed to the company's requested comprehensive documentation by documenting system features, workflows, technical components, and implementation details across the frontend and backend.
+- 🔍 **Feature Documentation:** Added detailed explanations of the project's major features, their purpose, workflows, and technical behavior.
+- 🧪 **Testing & Review:** Ran and tested the complete application, reviewed its features and workflows, identified issues, and provided feedback for improvements.
+- 🔧 **Ongoing Improvements:** Currently contributing to code improvements, README updates, documentation refinement, and project maintenance.
+
+> KrishiMind was developed collaboratively as a team project, and these contributions represent my individual involvement within the team.
 
 ---
 
@@ -51,7 +93,7 @@
   <img src="./docs/images/disease_scanner.png" width="80%" alt="AI Disease Scanner" />
 </p>
 <p align="center">
-  <img src="./docs/images/recomendation.png" width="80%" alt="Crop Recommendation" />
+  <img src="./docs/images/recommendation.png" width="80%" alt="Crop Recommendation" />
 </p>
 
 ### AI Core: Yield Prediction & Intelligent Assistant
@@ -118,7 +160,7 @@ To test the Officer Dashboard, you can seed an admin account into the database:
 ```bash
 docker compose exec backend python seed_officer.py
 ```
-*(This creates an officer: `admin@krishimind.gov.bd` / `admin123` assigned to Chattogram)*
+
 
 ### 6. Access the Application
 * **Web App (Farmers & Officers):** [http://localhost:3000](http://localhost:3000)
