@@ -176,16 +176,10 @@ docker compose exec backend pytest
 
 ---
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! 
-Feel free to check the [issues page](https://github.com/md-imam75/KrishiMind-Agro-Intelligent-System/issues).
+## 📄 License
 
----
+Copyright © 2026 Tanim Mahmud. All rights reserved.
 
-## License
-
-This project is currently not licensed for reuse, modification,
-or redistribution. All rights reserved by the project authors.
-
-Please do not copy, modify, distribute, or use this project
-without permission.
+This repository is publicly available for viewing and portfolio purposes.
+The source code may not be copied, modified, distributed, or reused
+without prior written permission.
